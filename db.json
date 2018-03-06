@@ -1,6 +1,6 @@
 {
   "buyers": {
   "id":1,
-   "orders":"test"
+   "orders":{"key":"test"}
   }
 }
