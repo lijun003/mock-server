@@ -1,7 +1,7 @@
 {
-  "posts": [
+  "buyer": [
     {
-      "id": 1,
+      "buyer_id": 1,
       "title": "hello"
     }
   ],
